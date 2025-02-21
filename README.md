@@ -45,13 +45,21 @@ Node.js (v16 or higher) and npm installed on your machine.
 Steps
 Clone the Repository:
 Copy
-  git clone https://github.com/your-username/quiz-platform.git
-  cd quiz-platform
+
+git clone https://github.com/Archin8/projects.git
+
+cd quiz-platform
+
 Install Dependencies:
+
 Copy
   npm install
+
   Start the Development Server:
+
 Copy
+
   npm run dev
+  
 Open the App:
 https://projects-theta-nine.vercel.app
