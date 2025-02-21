@@ -1,6 +1,10 @@
 Interactive Quiz Platform
 Welcome to the Interactive Quiz Platform! This project is a web-based quiz application where users can attempt quizzes, receive instant feedback, and track their progress. It includes features like a timer-based quiz system, multiple attempts, and a scoreboard.
 ---------------------------------------------------------------------------------------------------------------------
+Open the App:
+https://projects-theta-nine.vercel.app
+
+-------------------------------------------------------------------------------------------------------------------
 Features
 1. Quiz Creation & Management
 Displays a list of questions in a quiz format.
@@ -61,5 +65,3 @@ Copy
 
   npm run dev
   
-Open the App:
-https://projects-theta-nine.vercel.app
